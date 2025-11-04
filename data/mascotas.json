@@ -1,14 +1,15 @@
 [
   {
     "id": 1,
-    "nombre": "Luna",
+    "nombre": "Lola",
     "especie": "Perro",
     "duenioId": 1
   },
   {
     "id": 2,
-    "nombre": "Michi",
+    "nombre": "Itiellufi",
     "especie": "Gato",
     "duenioId": 1
   }
+ 
 ]
