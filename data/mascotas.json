@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Luna",
+    "especie": "Perro",
+    "duenioId": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Michi",
+    "especie": "Gato",
+    "duenioId": 1
+  }
+]
